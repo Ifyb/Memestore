@@ -1,0 +1,11 @@
+.jumbotron {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px 0;
+}
+.jumbotron img {
+  max-width: 700px;
+  margin: 0 auto;
+}
